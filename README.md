@@ -11,14 +11,14 @@
 
 # About ME 💬 :
 
-### - I am a technophile exploring web development and data science.
+### - I am a technophile exploring web development.
 
 <img height="200" width="350" alt="GIF" align="right" src="https://media.tenor.com/vSO_hg-Yu_AAAAAC/i-am-the-fire-i-am-what-keeps-me-going.gif">
 
 ### - Learning :
-- ✨ Python
-- ✨ SEO
 - ✨ JS
+- ✨ Cpp
+- ✨ Linux
 
 ### - Hobbies : 
 - ✨ Reading Novels
