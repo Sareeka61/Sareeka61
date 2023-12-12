@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarika Ghimire</h1>
-<h3 align="center">Web developer in making and cybersecurity enthusiast!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sareeka61&label=Profile%20views&color=0e75b6&style=flat" alt="sareeka61" /> </p>
-
-- 🌱 I’m currently learning **ReactJS and AWS**
 
 - 📝 I regularly write articles on [https://medium.com/@ghimiresarika61](https://medium.com/@ghimiresarika61)
 
